@@ -1,0 +1,14 @@
+jupyter
+ipykernel
+python-dotenv
+streamlit
+gradio
+openai
+langchain
+pypdf
+chromadb
+tiktoken
+lark
+panel
+chroma-migrate
+docarray
